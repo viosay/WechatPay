@@ -1,0 +1,33 @@
+# Compiled class file
+# 编译后的类文件
+
+*.class
+
+# Log file
+# 日志文件
+
+*.log
+
+# Package Files
+# 包文件
+# *.jar
+
+*.war
+*.ear
+
+# Eclipse project files
+# Eclipse 项目文件
+
+/.settings
+/.metadata
+/build
+/bin
+/target
+.classpath
+.project
+.DS_Store
+
+# External tool builders
+# 外部工具构建
+
+.externalToolBuilders/
